@@ -73,7 +73,7 @@ public class TestBench {
 		
 		fish.eat();
 		fish.sleep();
-		fish.swin();
+		fish.swim();
 	}
 	
 	private static void unitTest5_Invalid_Data() {

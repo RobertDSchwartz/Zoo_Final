@@ -28,7 +28,7 @@ public class Fish extends Animal {
 		this.waterType = waterType;
 	}	
 
-	public void swin() {
+	public void swim() {
 		System.out.println(this.type + " is swimming...");
 	}
 	
